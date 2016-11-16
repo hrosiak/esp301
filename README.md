@@ -1,5 +1,5 @@
 # esp301
-python module to control Newport esp 301 stepper motion controller
+simple python module to control Newport esp 301 stepper motion controller
 
 Requirements
 -------------
